@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>终章-自杀</title>
+      <link href="/blog/%E7%BB%88%E7%AB%A0-%E8%87%AA%E6%9D%80/"/>
+      <url>/blog/%E7%BB%88%E7%AB%A0-%E8%87%AA%E6%9D%80/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>世界上每两分钟会有一个人自杀 人的生命只有一次，一旦失去之后是没有任何轮回的<br>但是！当我失去了我最粘最喜欢的人时……我的人生就已经死了<br><img src="9872.jpg" alt=""><br>凌晨3点：她的手机从充电状态变成耗电[QQ电量显示]<br>凌晨3:54 尝试给她发消息[害怕她自己躲在被子里哭]<br>凌晨4:06 以为我给她惹的不高兴，频繁发对不起<br>凌晨5点：自杀想法确定<br>凌晨6点：晚安 世界 晚安 姐姐 对不起….我不配这一切….</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客更新日志[2022/08/13]</title>
+      <link href="/blog/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+      <url>/blog/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>咱这次的更新更换掉了图片加载方式，防止博客完全加载出来图片或者头像还没出来的情况<br>传送门把万年不更新的友联除掉了，新上两位<br>上友链记得：<br>博客名称<br>博客网址<br>博客头像<br>博客介绍[限定8个字]</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一个小游戏:速度次元~</title>
+      <link href="/blog/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%B8%B8%E6%88%8F-%E9%80%9F%E5%BA%A6%E6%AC%A1%E5%85%83/"/>
+      <url>/blog/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%B8%B8%E6%88%8F-%E9%80%9F%E5%BA%A6%E6%AC%A1%E5%85%83/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>emmmm….<br>考虑了很久….想做一个咱自己的赛车游戏 名字咱写在标题啦！<br>虚幻引擎4开发~[开源的~给新手做个赛车类参考]单机的…..[懒得写服务端]<br>集音游和竞速元素一体的半竞速游戏…咱的安装包就直接放在Github了 不想去盒子上架 对于萌新和拆包萌新来说 很容易拆掉并分解音乐和模型 也可以做参考[音乐不能用]</p><p>好耶！又水了一篇帖子~</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【虚幻4】初学者系列教程-2</title>
+      <link href="/blog/%E3%80%90%E8%99%9A%E5%B9%BB4%E3%80%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B-2/"/>
+      <url>/blog/%E3%80%90%E8%99%9A%E5%B9%BB4%E3%80%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B-2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>蓝图可视化系统是一个完整的游戏脚本系统，是使用基于图形或节点的界面从虚幻编辑器中创建游戏可玩性元素，非常灵活且非常强大，因为它为设计人员提供了几乎所有概念及工具。它是一种特殊类型的编码[不知道对不对]，为关卡设计师和游戏开发人员提供了一种在编辑器中快速创建及迭代游戏可玩性的工具。<br>通过使用蓝图，几乎可以创作任何游戏元素的原型，以及实现或修改这些元素。[其实就是给没有学习语言的部分人群多个选择]</p><h2 id="蓝图初入门"><a href="#蓝图初入门" class="headerlink" title="蓝图初入门~"></a>蓝图初入门~</h2><p>通过使用蓝图，设计人员几乎可以创作任何游戏元素的原型，以及实现或修改这些元素。</p><p>　　<font color="red">Games（游戏）</font>创建游戏规则，调整游戏条件等。<br>　　<font color="red">Players （玩家）</font>使用不同的网格物体、材质或角色自定义来创建变种<br>　　<font color="red">Cameras （相机）</font>创建新相机视角的原型或者在游戏运行过程中动态地改变相机。<br>　　<font color="red">Input（输入）</font>修改玩家操作，或允许玩家向道具传入输入<br>　　<font color="red">Items （道具）</font>武器、法术、掉落物、触发器等。<br>　　<font color="red">Environments （环境）</font>创建随机的装置或者程序化地生成道具。<br>　　为了对蓝图有一个基本的印象，咱可以查看：</p><p><a target="_blank" rel="noopener" href="https://docs.unrealengine.com/4.27/zh-CN/Basics/Actors/HowTo/" title="请看这里"><font color="red">官方快速入门指南~</font></a></p><p><a target="_blank" rel="noopener" href="https://learn.unrealengine.com/home/dashboard" title="请看这里"><font color="red">虚幻引擎快速入门视频教程~</font></a></p><h2 id="蓝图跟c-对比"><a href="#蓝图跟c-对比" class="headerlink" title="蓝图跟c++对比"></a>蓝图跟c++对比</h2><p>　　蓝图适合快速迭代<br>　　蓝图比原生C++消耗更多的CPU性能运行在虚拟机上<br>　　大约比原生C++代码慢8~10倍<br>　　对于大多数简单的事件驱动的任务，你可能并不会发现性能有什么大的消耗<br>　　许多发行的AAA游戏都在使用蓝图（包括Epic自己）[不懂为啥自己使用还不优化]<br>　　每帧需要更新的（tick）应用使用原生C++（物理模拟）<br>　　但是，蓝图仍然很合适做原型开发可以让设计师在蓝图快速得创建他们所需的原型，然后让程序员把它转换成代码</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>　　蓝图可以让设计师快速简单得实现想法<br>　　图状结构可以让程序员快速简单得用C++代码实现并优化<br>　　代码可以在编辑器中添加到任意工程中<br>　　快速协作、畅通沟通，不会出现模糊不清的玩法设计。<br>　　个人理解，蓝图系统非常强大，可用于快速原型设计、简单事件驱动玩法的开发，但是如果玩法复杂需要耗费非常多的CPU性能，那么最好把设计师使用蓝图设计的玩法翻译成原生的C++代码，如果本身一些像物理模拟等需要每帧更新又特别耗时的那么需要使用C++来进行开发。</p><h1 id="蓝图类型"><a href="#蓝图类型" class="headerlink" title="蓝图类型"></a>蓝图类型</h1><h2 id="关卡蓝图（Level-Blueprint）"><a href="#关卡蓝图（Level-Blueprint）" class="headerlink" title="关卡蓝图（Level Blueprint）"></a>关卡蓝图（Level Blueprint）</h2><p>　　关卡蓝图是一种特殊类型的蓝图，是作用于整个关卡的全局事件图表。关卡事件或者关卡中的Actor的特定实例，用于激活以函数调用或者流程控制操作的形式呈现的动作序列。熟悉虚幻引擎3的人应该非常熟悉这个概念，因为这和虚幻引擎3中的Kismet的工作原理非常相似。</p><p>　　关卡蓝图提供了针对关卡动态载入、Matinee以及给放置到关卡中的Actor绑定事件的机制。</p><h3 id="类蓝图-（Blueprint-Class）"><a href="#类蓝图-（Blueprint-Class）" class="headerlink" title="类蓝图 （Blueprint Class）"></a>类蓝图 （Blueprint Class）</h3><p>　　类蓝图是一种允许内容创建者轻松地基于现有游戏性类添加功能的资源。它是在编辑器中可视化地创建的，不需要书写代码，会被作为类保存在包中。实际上，这种类蓝图定义了一种新类别或类型的Actor，这些Actor可以作为实例放置到地图中，就和其它类型的Actor的行为一样。</p><h4 id="父类"><a href="#父类" class="headerlink" title="父类"></a>父类</h4><p>　　你可以创建多种不同类型的蓝图，当然在你做这些之前，你需要指定该蓝图的Parent Class(父类) 选择继承父类，允许你在自己的蓝图里面调用父类创建的属性。</p><p>　　下面是你创建蓝图是最常见的父类：</p><p>　　<font color="red">Actor</font> 一个可以在世界中摆放，或者生成的Actor。<br>　　<font color="red">Pawn</font> 是一个可以从控制器获得输入信息处理的Actor.<br>　　<font color="red">Character</font> 角色是一个包含了行走，跑步，跳跃以及更多动作的Pawn.<br>　　<font color="red">PlayerController</font> 角色控制器<br>　　<font color="red">Game Mode</font> 定义了游戏是如何被执行的，游戏规则，如何的分以及其他方面的内容。</p><h5 id="仅包含数据的蓝图（Data-Only-Blueprint）"><a href="#仅包含数据的蓝图（Data-Only-Blueprint）" class="headerlink" title="仅包含数据的蓝图（Data-Only Blueprint）"></a>仅包含数据的蓝图（Data-Only Blueprint）</h5><p>　　仅包含数据的蓝图是指仅包含代码（以节点图表的形式）、变量及从父类继承的组件的类的蓝图。仅包含数据的蓝图允许你调整及修改继承的属性，但是不能添加新元素。从本质上讲，这些蓝图是原型的替代物，设计人员可以使用它们来调整属性或者设置具有变种的项目。可以通过添加代码、变量或者组件来将它转换成完整的类蓝图。</p><h6 id="蓝图接口（Blueprint-Interface）"><a href="#蓝图接口（Blueprint-Interface）" class="headerlink" title="蓝图接口（Blueprint Interface）"></a>蓝图接口（Blueprint Interface）</h6><p>　　蓝图接口是一个函数或多个函数的集合，它相当于C++中的一个纯虚基类，仅有函数名称，没有实现，该接口可以添加到其它蓝图中。使用具有该接口的蓝图，都一定会具备这些函数。在每个添加了接口的蓝图中，都可以提供接口的这些函数功能。从本质上讲这各一般编程中的接口概念一样，允许通过一个公共接口来共享及访问多种不同类型的对象。简单地讲，蓝图接口允许不同的类蓝图间彼此共享及发送数据。</p><p>　　蓝图接口的创建和其他类似，可以通过编辑器中的内容创建器进行创建，但它们有一些局限性，因为它们不能：</p><p>　　<font color="red">添加新变量</font><br>　　<font color="red">编辑图表</font><br>　　<font color="red">添加组件</font></p><h6 id="蓝图宏库（Blueprint-Macro-Library）"><a href="#蓝图宏库（Blueprint-Macro-Library）" class="headerlink" title="#蓝图宏库（Blueprint Macro Library）"></a>#蓝图宏库（Blueprint Macro Library）</h6><p>　　蓝图宏库是一个存放了一组宏的容器，或者是可以像节点那样放置到其他蓝图中的自包含图表。这些蓝图宏库非常节约时间，因为它们存放了常用的节点序列、及针对执行和数据变换的输入和输出。</p><p>　　宏会在所有引用它们的图表间共享，但是如果它们在编译过程中是合并的节点，那么它们会自动地展开为图表。这意味着蓝图宏库不需要进行编译，但是对宏所做的修改，仅当重新编译了包含引用该图表的蓝图时，这些修改才会反应在图表中~</p><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>不要傻傻的乱改文件哦！[局外]不然启动崩溃或项目闪退都会搞炸你的心态~</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【虚幻4】初学者系列教程</title>
+      <link href="/blog/%E3%80%90%E8%99%9A%E5%B9%BB4%E3%80%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B/"/>
+      <url>/blog/%E3%80%90%E8%99%9A%E5%B9%BB4%E3%80%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="初入虚幻："><a href="#初入虚幻：" class="headerlink" title="初入虚幻："></a>初入虚幻：</h1><p>如果你想系统的入门学习虚幻4不妨看看这个系列教程，在教程中我一步一步详细的了解虚幻引擎的各个小功能，制作一些小的场景，小的互动，最终做出一个小的游戏，增加成就感~<br>我们可以在官方文档中 按照主题查找我们要学习的内容 也可以根据左边栏的详细大纲来进行精确的查找~</p><h2 id="虚幻引擎官方在线学习平台"><a href="#虚幻引擎官方在线学习平台" class="headerlink" title="虚幻引擎官方在线学习平台~"></a>虚幻引擎官方在线学习平台~</h2><p>平台链接：请看这里<br>在线学习平台分为三个板块：</p><p>1、主页：（会对你学习进度进行记录，我的课程、进行中、已完成等等~）</p><p>2、课程库：（你可以查看所有的课程，并筛选出你想学习的去看~）</p><p>3、成就：（学习的每一个阶段都会有小测试题，并会记录得分。在你学习完成后还会获得课程的徽章呢~）</p><p>打开课程之后，等待加载完成，可以在右下角看到一个CC的图标，咱在这边可以把切换成中文的字幕，更有助于我们学习和理解~<br><img src="001.jpg" alt=""></p><h3 id="虚幻4的QQ群"><a href="#虚幻4的QQ群" class="headerlink" title="虚幻4的QQ群"></a>虚幻4的QQ群</h3><p>一个氛围好的QQ群，大家一起讨论互帮互助，也是一个很好的学习途径呢，在帮助别人的同时也提高了自己；在提问的同时，也学习了别人解答问题的思路</p><h4 id="CSDN专业技术IT社区"><a href="#CSDN专业技术IT社区" class="headerlink" title="CSDN专业技术IT社区"></a>CSDN专业技术IT社区</h4><p>平台链接：<a target="_blank" rel="noopener" href="https://www.csdn.net/" title="请看这里">请看这里</a><br>咱可以在上面搜索到很多他人分享的技术文章，经常可以解答你遇到的问题哦！<br><img src="002.jpg" alt=""><br>虚幻引擎官方论坛<br>平台链接：<a target="_blank" rel="noopener" href="https://forums.unrealengine.com" title="请看这里">请看这里</a><br>（最好使用google浏览器打开，因为自带翻译功能）[我自己有些时候都看不懂…..]</p><p>我们很多时候通过google，搜索的问题都是来自于虚幻引擎官方论坛</p><p>1、虚幻引擎：（公告、活动、反馈）</p><p>2、发展讨论：（虚幻引擎的功能模块，如：动画、渲染、蓝图）</p><p>3、社区：（行业、分享、发布游戏、寻找工作机会）</p><p>4、国际：（巴西、中国、欧洲、日本、韩国等）</p><p>5、旧版工具：（虚幻引擎3/udk）<br><img src="003.jpg" alt=""></p><h5 id="懒人办法-维基百科、Google、百度、Bing、Youtube"><a href="#懒人办法-维基百科、Google、百度、Bing、Youtube" class="headerlink" title="[懒人办法~]维基百科、Google、百度、Bing、Youtube"></a>[懒人办法~]维基百科、Google、百度、Bing、Youtube</h5><p>这是我能说的最直接有用的途径了，在这个大型视频网站上面有非常多的虚幻引擎的教程，并且都是免费，成套一个系列的。<br>这也是我自学和寻找解决方法的时候，比较重要的一个学习途径。<br>但是这个网站也是需要其他上网的方式访问的，并且视频都是纯英文的，对于英文不好的朋友就不是太友好了。不过在哔哩哔哩也有很多人对Youtube上面的视频教程进行搬运并自制了中文翻译，可以直接在哔哩哔哩上查看！[不太建议…有些人只为流量不翻译的]</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常[22-07-20]</title>
+      <link href="/blog/%E6%97%A5%E5%B8%B8-22-07-20/"/>
+      <url>/blog/%E6%97%A5%E5%B8%B8-22-07-20/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="22-07-19"><a href="#22-07-19" class="headerlink" title="22.07.19"></a>22.07.19</h4><p>昨晚我找到了刀子，偷偷自残了一次 感觉还好 至少放松了不少</p><h4 id="22-07-20"><a href="#22-07-20" class="headerlink" title="22.07.20"></a>22.07.20</h4><p>中午洗澡的时候,发现自己的胸起来了…我并没吃药啊…它怎么就起来了<br>我洗完澡回到了我的房间,满脸疑惑的摸着自己的胸,它起来了…而且有了硬块<br>感觉自己的胸部敏感了不少…前几天用过脱毛膏后,身体的就长得很慢了..我不知道发生了什么</p><h4 id="晚上7点："><a href="#晚上7点：" class="headerlink" title="晚上7点："></a>晚上7点：</h4><p>身体莫名其妙的开始发热,脑袋和肚子痛痛的 我喝了热水 过了一个小时,好了很多</p><h4 id="晚上8-37"><a href="#晚上8-37" class="headerlink" title="晚上8:37:"></a>晚上8:37:</h4><p>开始恶心了…脑袋里想到了之前割臂的伤口,脂肪、血管的形状在我眼前浮现，恶心死了<br>并没有吃晚饭，导致我的嘴里满是苦味,一有苦味我就又想恶心…直接吐的脑袋晕<br>记忆力减退越来越严重了，自残真的没办法控制。<br>我希望通过转移注意力来缓解这种症状，安排今天晚上出去散步的。穿好衣服，准备一会就出发。结果焦虑开始了。心里非常的抵触出门，所以直接拒绝出门。重新回到自己的小房间。<br>好累，好累！</p><h4 id="今天除了一直睡觉，什么都没有做"><a href="#今天除了一直睡觉，什么都没有做" class="headerlink" title="今天除了一直睡觉，什么都没有做."></a>今天除了一直睡觉，什么都没有做.</h4><p>感觉好累。下午终于强迫自己睡了一觉。很多次都是被惊醒的，在外面被自己的闹钟，在家被叫喊声，我不知道自己为什么总是走不出这种环境。<br>现在头木木的，里面隐隐作疼，涨的疼。吃完饭，我莫名的要求身边的人以后不要跟我说话，吃饭也不要叫我，我怎么了呢？然后转过身将自己关在了只有自己的不准任何人侵犯的空间里。<br>我又回到了无可救药的自我作死的状态。<br>等待——死亡</p><h4 id="我并不明白我为何会有这种状态"><a href="#我并不明白我为何会有这种状态" class="headerlink" title="我并不明白我为何会有这种状态"></a>我并不明白我为何会有这种状态</h4><p>社恐加害怕让我一直在死循环状态，类似虚幻4的actor<font color="red">[自由]</font>永远不能在世界中挂在人物<font color="red">[封闭自我]</font>或车辆[对社会的恐惧]上面<br>心很乱，脑袋里面有很多事情不知道应该怎么去解决，甚至部分时间我还在想怎么死比较痛快.<br>情绪类的药也在吃，我感觉完全多此一举</p><h4 id="现在的世界似乎变了"><a href="#现在的世界似乎变了" class="headerlink" title="现在的世界似乎变了"></a>现在的世界似乎变了</h4><font color="red">纯洁的快乐消失了，替换的是恶心 肮脏 他[她]们的快乐获得很困难,我也一样.没有了以往的欢声笑语谁都想要快乐, 可他[她]们仅仅只是想要变换成为他[她]们想要的性别 去过正常人的生活 去和正常人一样去追逐梦想 可换来的是鄙视 是辱骂 是在楼道里被刺杀扒掉衣服 是被带去小巷辱骂骚扰 是被骂你这个恶心的东西还有梦想？ 他们是男生 她们也是女生 我并不明白为什么现在拥有了网络，部分喷子的下限可以这么低 人是平等的 不论你变成什么样子 哪怕和我最好的朋友变成了我最不想的样子，我也会接受 换句话说 就是人类都是平等的 当肮脏的网络喷子和歧视消失了 终究会看到我们希望看到的彩虹 哪怕转瞬即逝</font><h4 id="自残の解脱"><a href="#自残の解脱" class="headerlink" title="自残の解脱"></a>自残の解脱</h4><font color="red">他[她]们被骂麻后，开朗一点的可能直接拉黑或不管，可自闭一点的只会接受，然后自己慢慢忍受着想不开，开始自残，他[她]们觉得这样可以逃避一切，我也不想接受这样的生活，于是…在某个星期，我请了两天假在家自闭，第三天去上学的时候，老师看见我的脸色不太好[休息的这两天自残血流多了]和我说有事情和老师说，课上我绷不住了，开始尽力忍住不让自己哭，可并没有忍住，我拿出了壁纸刀，旁边的同学尽力劝我不要想不开，可我还是割了下去…直接看到动脉血管和脂肪，我当时还觉得没事，一直忍到下课，脑袋开始晕了，我自己去了医务室[包了很多纸]到了医务室还没开口就直接倒在了地上[伤口还扯大了一点]醒来时脑袋还是沉沉的，缝了10针，被家长骂了 医院也出了心理证明，学校禁止我上课了，让我下学期再来，我的考试不计分了，但我至今还觉得死亡就是解脱，错的不是我们，错的是这个世界和那些恶心的人们脑袋好痛…先到这里吧，以后再补充吧.</font>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你好，世界</title>
+      <link href="/blog/done/"/>
+      <url>/blog/done/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明我几乎准备好了<br>我不知道为何会开这个博客，但….开心就好.<br>本博客已经关闭打赏功能、文章全部免费开源、转文可以不标记原作<br>域名还没买….不想去看阿里云乱七八糟的页面和广告</p><h1 id="愿望清单"><a href="#愿望清单" class="headerlink" title="愿望清单~"></a>愿望清单~</h1><p><li><input disabled="" type="checkbox">去做SRS</p><p><li><input disabled="" type="checkbox">有一个男or女朋友</p><p><li><input disabled="" type="checkbox">彻底摆脱自残倾向</p><p><li><input disabled="" type="checkbox">彻底摆脱抑郁症</p><p><li><input disabled="" type="checkbox">彻底摆脱没有安全感而大哭</p><p><li><input disabled="" type="checkbox">和最想面基的人面基</p><p><li><input disabled="" type="checkbox">学习钢琴并且制作自己的钢琴曲~</p><p><li><input disabled="" type="checkbox">制作出自己的网络游戏~</p><p><li><input disabled="" type="checkbox">制作出自己的博客~</p><p><li><input disabled="" type="checkbox">拥有稳定的生活~</p><p><li><input disabled="" type="checkbox">经济独立~</p><p><li><input disabled="" type="checkbox">学会3dmax和maya还有Blender建模[不太可能实现]</p><h1 id="已经完成"><a href="#已经完成" class="headerlink" title="已经完成~"></a>已经完成~</h1><p><li><input checked="checked" disabled="" type="checkbox">变成超级会哄人的大姐姐</p><p><li><input checked="checked" disabled="" type="checkbox">养一只可爱的猫</p><p><li><input checked="checked" disabled="" type="checkbox">变成半个程序员</p><p><li><input checked="checked" disabled="" type="checkbox">变成网易云音乐的合作伙伴[好耶~]</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
