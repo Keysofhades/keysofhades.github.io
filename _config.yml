@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,6 +105,7 @@ deploy:
   type: git
   repo: git@github.com:Keysofhades/keysofhades.github.io.git
   branch: master
+
 jsonContent:
   meta: false
   pages: false
